@@ -20,6 +20,8 @@ class Main {
             int num2 =alam.nextInt();
             System.out.println(num1+num2);
             System.out.println("Enter no 1");
+            System.out.println("num2");
+
         }
     }
 }
